@@ -1,2 +1,10 @@
-# docker-discourse-workadventure
-this repo aims to deploy Discourse and Workadventure as painless as possible.
+# Discourse and Workadventure deployment
+
+This repo aims to show how to deploy Discourse and Workadventure with
+as minimal steps as possible.
+
+## deployment guides
+
+### [Discourse Deployment](./discourse/readme_discourse.md)
+
+### [Workadventure Deployment](./workadventure/readme_workadventure)
