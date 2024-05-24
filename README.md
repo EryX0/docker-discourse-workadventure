@@ -1,7 +1,6 @@
 # Discourse and Workadventure deployment
 
-This repo aims to show how to deploy Discourse and Workadventure with
-as minimal steps as possible.
+This repo aims to show how to deploy Discourse and Workadventure as painlessly as possible.
 
 ## deployment guides
 
